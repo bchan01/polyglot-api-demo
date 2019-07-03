@@ -8,9 +8,9 @@
 
 ## API Endpoints ##
 
-* http://127.0.0.1:7001
-* http://127.0.0.1:7001/users
-* http://127.0.0.1:7001/users/bchan
+* http://localhost:7001
+* http://localhost:7001/users
+* http://localhost:7001/users/bchan
 
 ## Docker Setup ##
 
