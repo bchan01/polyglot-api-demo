@@ -7,8 +7,8 @@ app.set('port', port);
 let server = http.createServer(app);
 
 // Register Server Event Listeners
-//server.listen(port, '0.0.0.0');
-server.listen(port);
+server.listen(port, '0.0.0.0');
+//server.listen(port);
 server.on('error', onError);
 server.on('listening', onListening);
 
