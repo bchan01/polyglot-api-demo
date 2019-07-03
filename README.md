@@ -7,3 +7,38 @@ Demonstrate how to implement a simple API in multiple languages
 * Java (Spring Boot)
 
 
+# API Endpoints #
+
+* http://localhost:PORT
+
+```
+{
+    "message": "Hello Node.js"
+}
+```
+
+* http://localhost:PORT/users
+```
+[
+    {
+        "username": "bchan",
+        "firstName": "Brian",
+        "lastName": "Chan"
+    },
+    {
+        "username": "rfederer",
+        "firstName": "Roger",
+        "lastName": "Federer"
+    }
+]
+```
+
+* http://localhost:PORT/users/bchan
+
+```
+{
+    "username": "bchan",
+    "firstName": "Brian",
+    "lastName": "Chan"
+}
+```
