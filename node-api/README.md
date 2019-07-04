@@ -14,6 +14,6 @@
 
 ## Docker Setup ##
 
-* docker build -t simple-polyglot-node-api:latest .
+* docker build -t simple-polyglot-node-api:latest --no-cache .
 * docker run -d -p 7001:7001 simple-polyglot-node-api
 * docker ps -a

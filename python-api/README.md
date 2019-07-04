@@ -18,6 +18,6 @@
 
 ## Docker Setup ##
 
-* docker build -t simple-polyglot-python-api:latest .
+* docker build -t simple-polyglot-python-api:latest --no-cache .
 * docker run -d -p 7002:7002 simple-polyglot-python-api
 * docker ps -a

@@ -14,6 +14,7 @@
 
 ## Docker Setup ##
 
-* docker build -t simple-polyglot-java-api:latest .
-* docker run -d -p 7001:7001 simple-polyglot-java-api
+* mvn clean package
+* docker build -t simple-polyglot-java-api:latest --no-cache .
+* docker run -d -p 7003:7003 simple-polyglot-java-api
 * docker ps -a
