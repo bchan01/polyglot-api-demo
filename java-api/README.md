@@ -1,0 +1,19 @@
+# Simple Java API #
+
+## Local Setup ##
+
+* Install Java 8+, Maven
+* mvn clean install
+* mvn spring-boot:run
+
+## API Endpoints ##
+
+* http://localhost:7003
+* http://localhost:7003/users
+* http://localhost:7003/users/bchan
+
+## Docker Setup ##
+
+* docker build -t simple-polyglot-java-api:latest .
+* docker run -d -p 7001:7001 simple-polyglot-java-api
+* docker ps -a
