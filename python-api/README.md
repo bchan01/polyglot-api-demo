@@ -1,5 +1,7 @@
 # Simple Python API #
 
+![alt text](logo.png)
+
 ## Local Setup ##
 
 * Install Anaconda

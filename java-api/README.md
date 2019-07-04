@@ -1,5 +1,7 @@
 # Simple Java API #
 
+![alt text](logo.png)
+
 ## Local Setup ##
 
 * Install Java 8+, Maven

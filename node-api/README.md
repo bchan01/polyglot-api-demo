@@ -1,5 +1,7 @@
 # Simple Node API #
 
+![alt text](logo.png)
+
 ## Local Setup ##
 
 * Install Node
