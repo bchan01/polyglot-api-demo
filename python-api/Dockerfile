@@ -1,7 +1,4 @@
-FROM ubuntu:latest
-MAINTAINER Brian Chan "brian.chan.01@gmail.com"
-RUN apt-get update -y
-RUN apt-get install -y python3 python3-dev python3-pip
+FROM python:3.7-alpine
 COPY ./ ./app
 WORKDIR ./app
 RUN pip3 install -r requirements.txt
