@@ -1,5 +1,7 @@
 # Polyglot API Demo #
 
+![alt text](polyglot-image.png)
+
 Demonstrate how to implement a simple API in multiple languages
 
 * Node.js (Express)
