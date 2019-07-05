@@ -19,5 +19,5 @@
 ## Docker Setup ##
 
 * docker build -t simple-polyglot-go-api:latest --no-cache .
-* docker run -d -p 7001:7001 simple-polyglot-go-api
+* docker run -d -p 7004:7004 simple-polyglot-go-api
 * docker ps -a
