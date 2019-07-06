@@ -5,6 +5,8 @@
 The puspose of this project is to demonstrate how to implement a RESTful API in multiple languages. Currently, this API supports a few simple GET endpoints. Features to be Implemented in the future are:
 
 * logging
+* Unit Tests
+* Integration Tests
 * Middleware (handle request, response and error)
 * Security (ie JWT)
 
