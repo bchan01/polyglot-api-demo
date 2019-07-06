@@ -2,7 +2,7 @@
 
 ![alt text](polyglot-image.png)
 
-## Implement a RESTful API in multiple languages ##
+## RESTful API Implemented in Multiple Languages ##
 * Go 
 * Node.js (Express)
 * Python (Flask)
