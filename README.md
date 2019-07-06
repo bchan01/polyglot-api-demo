@@ -16,7 +16,7 @@ The puspose of this project is to demonstrate how to implement a RESTful API in 
 * Java (Spring Boot)
 
 
-# API Endpoints #
+## API Endpoints ##
 
 * curl http://localhost:PORT
 
