@@ -2,13 +2,15 @@
 
 ![alt text](polyglot-image.png)
 
-The puspose of this project is to demonstrate how to implement a RESTful API in multiple languages. Currently, this API supports a few simple GET endpoints.   Features to be Implemented in the future are:
+The puspose of this project is to demonstrate how to implement a RESTful API in multiple languages. Currently, this API supports a few simple GET endpoints. Features to be Implemented in the future are:
 
 * logging
 * Middleware (handle request, response and error)
 * Security (ie JWT)
 
-## Languages ##
+## Language Specific Projects ##
+
+Each of the following projects can be run in a docker container
 
 * Go 
 * Node.js (Express)
