@@ -8,7 +8,7 @@ The puspose of this project is to demonstrate how to implement a RESTful API in 
 * Middleware (handle request, response and error)
 * Security (ie JWT)
 
-## RESTful API Implemented in Multiple Languages ##
+## Languages ##
 
 * Go 
 * Node.js (Express)
