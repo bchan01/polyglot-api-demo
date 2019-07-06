@@ -12,10 +12,10 @@ The puspose of this project is to demonstrate how to implement a RESTful API in 
 
 Each of the following projects can be run in a docker container
 
-* [Go API](go-api/)
-* [Node Express API](node-api/)
-* [Python Flask API](python-api/)
-* [Java SpringBoot API](java-api/)
+* [Go](go-api/)
+* [Node (Express)](node-api/)
+* [Python (Flask)](python-api/)
+* [Java (SpringBoot)](java-api/)
 
 
 ## API Endpoints ##
