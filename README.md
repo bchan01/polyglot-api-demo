@@ -9,7 +9,7 @@
 * Python (Flask)
 * Java (Spring Boot)
 
-## Featuree to be Implemented in the future ##
+## Features to be Implemented in the future ##
 
 * logging
 * Middleware (handle request, response and error)
