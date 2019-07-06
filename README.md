@@ -2,18 +2,18 @@
 
 ![alt text](polyglot-image.png)
 
+The puspose of this project is to demonstrate how to implement a RESTful API in multiple languages. Currently, the API supports a few simple GET endpoints.   Features to be Implemented in the future are:
+
+* logging
+* Middleware (handle request, response and error)
+* Security (ie JWT)
+
 ## RESTful API Implemented in Multiple Languages ##
 
 * Go 
 * Node.js (Express)
 * Python (Flask)
 * Java (Spring Boot)
-
-## Features to be Implemented in the future ##
-
-* logging
-* Middleware (handle request, response and error)
-* Security (ie JWT)
 
 
 # API Endpoints #
