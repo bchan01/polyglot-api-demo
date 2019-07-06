@@ -11,7 +11,7 @@
 
 # API Endpoints #
 
-* http://localhost:PORT
+* curl http://localhost:PORT
 
 ```
 {
@@ -19,7 +19,7 @@
 }
 ```
 
-* http://localhost:PORT/users
+* curl http://localhost:PORT/users
 ```
 [
     {
@@ -35,7 +35,7 @@
 ]
 ```
 
-* http://localhost:PORT/users/bchan
+* curl http://localhost:PORT/users/bchan
 
 ```
 {
