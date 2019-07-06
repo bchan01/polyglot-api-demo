@@ -1,6 +1,6 @@
 # Simple Java API #
 
-![alt text](logo.png) ![alt text](spring-boot.png)
+![alt text](logo.png)
 
 ## Local Setup ##
 
