@@ -3,10 +3,17 @@
 ![alt text](polyglot-image.png)
 
 ## RESTful API Implemented in Multiple Languages ##
+
 * Go 
 * Node.js (Express)
 * Python (Flask)
 * Java (Spring Boot)
+
+## Featuree to be Implemented in the future ##
+
+* logging
+* Middleware (handle request, response and error)
+* Security (ie JWT)
 
 
 # API Endpoints #
