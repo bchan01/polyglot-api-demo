@@ -2,7 +2,7 @@
 
 ![alt text](polyglot-image.png)
 
-The puspose of this project is to demonstrate how to implement a RESTful API in multiple languages. Currently, the API supports a few simple GET endpoints.   Features to be Implemented in the future are:
+The puspose of this project is to demonstrate how to implement a RESTful API in multiple languages. Currently, this API supports a few simple GET endpoints.   Features to be Implemented in the future are:
 
 * logging
 * Middleware (handle request, response and error)
