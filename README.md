@@ -5,7 +5,8 @@ Demonstrate how to implement a simple API in multiple languages
 ![alt text](polyglot-image.png)
 
 
-
+# Current Languages #
+* Go 
 * Node.js (Express)
 * Python (Flask)
 * Java (Spring Boot)
