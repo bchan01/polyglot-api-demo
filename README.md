@@ -1,8 +1,10 @@
 # Polyglot API Demo #
 
+Demonstrate how to implement a simple API in multiple languages
+
 ![alt text](polyglot-image.png)
 
-Demonstrate how to implement a simple API in multiple languages
+
 
 * Node.js (Express)
 * Python (Flask)
